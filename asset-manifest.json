@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bf2a962.css",
+    "main.js": "/static/js/main.d6d27a61.js",
+    "static/media/Web-designer-1024x821.webp": "/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/ItesoftLogo.png": "/static/media/ItesoftLogo.0bbedcf87dd9b3f71883.png",
+    "static/media/FacLogo.png": "/static/media/FacLogo.113e00855d247ce428f3.png",
+    "static/media/logor.png": "/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/IntechLogo.png": "/static/media/IntechLogo.3a3e517595018aff33ac.png",
+    "static/media/IdAlizesLogo.png": "/static/media/IdAlizesLogo.367ed729e51ca2d0750a.png",
+    "static/media/AtooLogo.png": "/static/media/AtooLogo.1da24900d93b96b40073.png",
+    "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/index.html",
+    "main.5bf2a962.css.map": "/static/css/main.5bf2a962.css.map",
+    "main.d6d27a61.js.map": "/static/js/main.d6d27a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf2a962.css",
+    "static/js/main.d6d27a61.js"
+  ]
+}
